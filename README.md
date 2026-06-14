@@ -11,6 +11,7 @@
 ## 🛠️ 包含的MCP服务
 
 该配置包含以下MCP服务：
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ### 1. Browser Tools MCP
 
