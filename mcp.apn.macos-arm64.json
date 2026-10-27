@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "apn": {
+      "type": "stdio",
+      "command": "apn",
+      "args": [
+        "mcp",
+        "serve"
+      ]
+    }
+  }
+}
